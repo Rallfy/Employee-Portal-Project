@@ -94,8 +94,11 @@ App Screenshots
 
 Take a closer look at our app's key features and user interface through the following screenshots. These images provide a visual overview of the app's functionality and design, showcasing the user experience you can expect.
 
+Screenshot 1: Departaments List + Employees List
 ![image](https://github.com/Rallfy/Employee-Portal-Project/assets/44873170/5efe79d0-d765-486e-82b0-05e136f0770b)
 
+
+Screenshot 2: Employees Registration
 ![image](https://github.com/Rallfy/Employee-Portal-Project/assets/44873170/f0562baf-adfc-4f01-a546-7980afcae03f)
 
 
