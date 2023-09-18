@@ -90,6 +90,16 @@ We welcome contributions to improve the Employee Portal project. If you have ide
 License
 This project is licensed under the MIT License, allowing you to use and modify the code for your purposes. Review the license file for more details.
 
+App Screenshots
+
+Take a closer look at our app's key features and user interface through the following screenshots. These images provide a visual overview of the app's functionality and design, showcasing the user experience you can expect.
+
+![image](https://github.com/Rallfy/Employee-Portal-Project/assets/44873170/5efe79d0-d765-486e-82b0-05e136f0770b)
+
+![image](https://github.com/Rallfy/Employee-Portal-Project/assets/44873170/f0562baf-adfc-4f01-a546-7980afcae03f)
+
+
+
 Thank you for considering the Employee Portal project for your employee management needs. If you have questions or need assistance, feel free to reach out.
 
 Happy employee management! 🌟👥🖥️
