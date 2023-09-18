@@ -87,9 +87,6 @@ Explore the portal's features and functionalities to streamline employee managem
 Contributing
 We welcome contributions to improve the Employee Portal project. If you have ideas, bug fixes, or enhancements, please open an issue or submit a pull request. Follow the code of conduct when contributing.
 
-License
-This project is licensed under the MIT License, allowing you to use and modify the code for your purposes. Review the license file for more details.
-
 App Screenshots
 
 Take a closer look at our app's key features and user interface through the following screenshots. These images provide a visual overview of the app's functionality and design, showcasing the user experience you can expect.
